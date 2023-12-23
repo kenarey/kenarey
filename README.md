@@ -5,8 +5,8 @@
 - Tech stack: C++, Python, TypeScript, Bash
 ### 🗺️ My interests outside of CS include traveling, making coffee, crocheting, and more!
 - So far, I've been to over 15 countries. Some of my favorites are Spain, Thailand, Turkey, and Costa Rica! I'd like to visit the Philippines and Egypt next.
-- I work as a barista and love perfecting my craft, especially when I get to drink them haha.
-- Crocheting and watching Netflix is my favorite leisure activity, and I especially like making custom gifts for my friends.
+- I work as a barista ☕ and love perfecting my craft, especially when I get to drink them haha.
+- Crocheting and watching Netflix is my favorite leisure activity, and I especially like making custom gifts for my friends 🎁
 
 
 <!--
