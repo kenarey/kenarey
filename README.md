@@ -1,7 +1,7 @@
 ## Hi, I'm Kena 👩‍💻
 ### 🌱 I’m currently learning Computer Science and Pure and Applied Mathematics at Stevens Institute of Technology!
 - My coursework for the upcoming semester (Fall 2024): Web Development II, Concurrent Programming, Special Topics in CS (Algorithms), Numerical Linear Algebra for Big Data, Seminar in Mathematics (Community Engagement)
-- ### 💰 This summer I'm working as a Software Development Intern on the Core Services team at Tradeweb
+### 💰 This summer I'm working as a Software Development Intern on the Core Services team at Tradeweb
 - Tech stack: C++, Python, Cmake, Shell, Bash (Help...)
 ### 🗺️ My interests outside of CS include traveling, making coffee, crocheting, and more!
 - So far, I've been to over 15 countries. Some of my favorites are Spain, Thailand, Turkey, and Costa Rica! I'd like to visit the Philippines and Egypt next. I'll be at the Paris 2024 Summer Olympics!
