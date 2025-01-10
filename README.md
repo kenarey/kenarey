@@ -1,8 +1,4 @@
 ## Hi, I'm Kena 👩‍💻
-### 🌱 I’m currently learning Computer Science and Pure and Applied Mathematics at Stevens Institute of Technology!
-### 💰 I'll be joining Tradeweb as a C++ Developer on the Core Services team
-- Tech stack: C++, Python, Cmake, Shell, Bash (Help...)
-
 
 <!--
 **kenarey/kenarey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
